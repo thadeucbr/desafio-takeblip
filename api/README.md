@@ -47,3 +47,4 @@ $ npm run test:cov
 
 Depois de executar o comando para instalação e o comando para rodar a aplicação, sua documentação pode ser encontrada acessando o endpoint https://localhost:3000
 
+A documentação também pode ser acessada utilizando o seguinte link: https://thadeu-takeblip.herokuapp.com
